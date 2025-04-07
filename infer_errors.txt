@@ -1,0 +1,4 @@
+Nothing to compile. Have you run `infer capture`? Try cleaning the build first.
+There was nothing to analyze.
+
+  No issues found  

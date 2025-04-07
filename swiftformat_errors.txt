@@ -1,0 +1,628 @@
+Running SwiftFormat...
+Reading config file at /Users/runner/work/Code-test/Code-test/Clean/.swiftformat
+Formatting /Users/runner/work/Code-test/Code-test/Package.swift
+-- rules applied: linebreakAtEndOfFile, trailingCommas, trailingSpace, wrapArguments
+Writing /Users/runner/work/Code-test/Code-test/Package.swift
+Reading config file at /Users/runner/work/Code-test/Code-test/scripts/Mentat/.swiftformat
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Design/SectionIcons.swift
+-- rules applied: indent
+Writing /Users/runner/work/Code-test/Code-test/Shared/Design/SectionIcons.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Design/SectionHeaders.swift
+-- rules applied: conditionalAssignment, redundantOptionalBinding, redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/Shared/Design/SectionHeaders.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Design/VariableBlurView.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Design/FloatingActionButton.swift
+-- rules applied: redundantOptionalBinding
+Writing /Users/runner/work/Code-test/Code-test/Shared/Design/FloatingActionButton.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Magic/TweakHandler.swift
+-- rules applied: indent, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/Shared/Magic/TweakHandler.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Magic/AppSigner.swift
+-- rules applied: indent, redundantReturn, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/Shared/Magic/AppSigner.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Localizations/Language.swift
+-- rules applied: redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/Shared/Localizations/Language.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Localizations/Foundation.swift
+-- rules applied: redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/Shared/Localizations/Foundation.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Management/ImageCache.swift
+-- rules applied: redundantOptionalBinding, redundantSelf, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/Shared/Management/ImageCache.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Management/NetworkManager+NonDecodable.swift
+-- rules applied: conditionalAssignment, redundantOptionalBinding, redundantSelf, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/Shared/Management/NetworkManager+NonDecodable.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Management/BundleIdChecker.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Management/MinimalDropboxService.swift
+-- rules applied: indent, redundantOptionalBinding, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/Shared/Management/MinimalDropboxService.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Management/NetworkManager.swift
+-- rules applied: andOperator, indent, redundantInternal, redundantOptionalBinding, redundantReturn, redundantSelf, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/Shared/Management/NetworkManager.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Management/CertData.swift
+-- rules applied: redundantOptionalBinding
+Writing /Users/runner/work/Code-test/Code-test/Shared/Management/CertData.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Management/DownloadTaskManager.swift
+-- rules applied: indent, redundantOptionalBinding, redundantReturn, redundantSelf, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/Shared/Management/DownloadTaskManager.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Management/DropboxService.swift
+-- rules applied: redundantOptionalBinding
+Writing /Users/runner/work/Code-test/Code-test/Shared/Management/DropboxService.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Management/iTunesLookup.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Management/SourceDownload.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Management/EnhancedDropboxService.swift
+-- rules applied: blankLinesAroundMark, blankLinesAtStartOfScope, elseOnSameLine, indent, redundantOptionalBinding, redundantReturn, redundantSelf, spaceAroundOperators, trailingCommas, trailingSpace, unusedArguments, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/Shared/Management/EnhancedDropboxService.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Management/AppDownload.swift
+-- rules applied: redundantOptionalBinding, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/Shared/Management/AppDownload.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Server/Server+Compute.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Server/Server.swift
+-- rules applied: redundantOptionalBinding, redundantSelf, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/Shared/Server/Server.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Server/DownloadCertificate.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Server/Server+TLS.swift
+-- rules applied: indent, redundantClosure, redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/Shared/Server/Server+TLS.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Logging/Logger.swift
+-- rules applied: indent, redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/Shared/Logging/Logger.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Design/AdvancedThemeManager.swift
+-- rules applied: elseOnSameLine, indent, preferForLoop, redundantNilInit, trailingCommas, trailingSpace, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Design/AdvancedThemeManager.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Models/AIDataset.swift
+-- rules applied: hoistPatternLet, redundantReturn, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Models/AIDataset.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/OptimizationIntegrator.swift
+-- rules applied: redundantOptionalBinding
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/OptimizationIntegrator.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/SourceRefreshOperation.swift
+-- rules applied: indent, preferKeyPath
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/SourceRefreshOperation.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AppContextManager+CoreMLSetup.swift
+-- rules applied: blankLinesAtStartOfScope, conditionalAssignment, hoistPatternLet, redundantType, sortImports, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AppContextManager+CoreMLSetup.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/CustomAIContextProvider.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AILearningManager+FixedServerSync.swift
+-- rules applied: blankLinesAtStartOfScope, elseOnSameLine, redundantReturn, sortImports, spaceAroundOperators, trailingSpace, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AILearningManager+FixedServerSync.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/TableViewOptimizer.swift
+-- rules applied: indent, redundantOptionalBinding, redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/TableViewOptimizer.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/CustomAIService.swift
+-- rules applied: andOperator, hoistPatternLet, indent, redundantReturn, redundantSelf, sortImports, spaceAroundOperators, trailingCommas, trailingSpace, unusedArguments, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/CustomAIService.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/MinimalBackdoorCollector.swift
+-- rules applied: andOperator, indent, numberFormatting, redundantOptionalBinding, redundantReturn, trailingCommas, trailingSpace, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/MinimalBackdoorCollector.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/BackdoorAIClient.swift
+-- rules applied: elseOnSameLine, hoistAwait, hoistPatternLet, redundantReturn, redundantSelf, sortImports, spaceAroundOperators, trailingCommas, trailingSpace, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/BackdoorAIClient.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AppContextManager.swift
+-- rules applied: indent, redundantReturn, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AppContextManager.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AILearningManager+Overrides.swift
+-- rules applied: blankLinesAtStartOfScope, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AILearningManager+Overrides.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/CustomCommandProcessor.swift
+-- rules applied: indent
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/CustomCommandProcessor.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/OpenAIService.swift
+-- rules applied: indent, redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/OpenAIService.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AppPerformanceOptimizer.swift
+-- rules applied: andOperator, redundantOptionalBinding, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AppPerformanceOptimizer.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AppLifecycleManager.swift
+-- rules applied: blankLinesAtStartOfScope, redundantOptionalBinding, redundantReturn, redundantSelf, trailingCommas, trailingSpace, unusedArguments, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AppLifecycleManager.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AILearningManager+ServerSync.swift
+-- rules applied: andOperator, blankLinesAtStartOfScope, redundantOptionalBinding, redundantSelf, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AILearningManager+ServerSync.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AppContextManager+AIIntegration.swift
+-- rules applied: conditionalAssignment, indent, redundantSelf, redundantType, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AppContextManager+AIIntegration.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AILearningManager+ImprovedTraining.swift
+-- rules applied: andOperator, blankLinesAtStartOfScope, redundantLet, redundantOptionalBinding, redundantSelf, sortImports, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AILearningManager+ImprovedTraining.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/BackdoorDataCollector.swift
+-- rules applied: andOperator, blankLinesAtStartOfScope, indent, numberFormatting, redundantOptionalBinding, redundantReturn, redundantSelf, trailingCommas, trailingSpace, wrapArguments, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/BackdoorDataCollector.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/BackdoorAIClient+FixAsyncCalls.swift
+-- rules applied: redundantReturn, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/BackdoorAIClient+FixAsyncCalls.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AppContextManager+CommandRegistration.swift
+-- rules applied: preferKeyPath, redundantOptionalBinding, redundantSelf, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AppContextManager+CommandRegistration.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/NaturalLanguageHelper.swift
+-- rules applied: blankLinesAtStartOfScope, redundantOptionalBinding, spaceAroundOperators, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/NaturalLanguageHelper.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/CustomAIService+DeepSearch.swift
+-- rules applied: blankLinesAtStartOfScope, conditionalAssignment, hoistPatternLet, indent, redundantType, trailingCommas, trailingSpace, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/CustomAIService+DeepSearch.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/FloatingButtonManager.swift
+-- rules applied: indent, redundantOptionalBinding, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/FloatingButtonManager.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AILearningManager+ModelUpload.swift
+-- rules applied: andOperator, blankLinesAtStartOfScope, sortImports, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AILearningManager+ModelUpload.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AppContextManager+MappingFunctions.swift
+-- rules applied: indent, redundantOptionalBinding, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AppContextManager+MappingFunctions.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/TerminalButtonManager.swift
+-- rules applied: redundantOptionalBinding, redundantSelf, trailingSpace, unusedArguments
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/TerminalButtonManager.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/WebSearchManager.swift
+-- rules applied: andOperator, blankLinesAtStartOfScope, conditionalAssignment, consecutiveSpaces, hoistPatternLet, indent, preferKeyPath, redundantOptionalBinding, redundantParens, redundantReturn, redundantSelf, redundantType, sortImports, spaceAroundOperators, trailingCommas, trailingSpace, unusedArguments, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/WebSearchManager.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AppDelegate+Terminal.swift
+-- rules applied: trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AppDelegate+Terminal.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AILearningManager.swift
+-- rules applied: consecutiveSpaces, hoistPatternLet, preferKeyPath, redundantInternal, redundantOptionalBinding, redundantReturn, redundantSelf, sortImports, trailingCommas, trailingSpace, unusedArguments
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AILearningManager.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AIDatasetManager.swift
+-- rules applied: andOperator, redundantOptionalBinding, redundantSelf, spaceAroundOperators, trailingCommas, trailingSpace, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AIDatasetManager.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AILearningManager+ServerCompatibility.swift
+-- rules applied: blankLinesAtStartOfScope, redundantReturn, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AILearningManager+ServerCompatibility.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/AppContextManager+OptimizedAI.swift
+-- rules applied: blankLinesAtStartOfScope, preferKeyPath, redundantOptionalBinding, redundantSelf, trailingCommas, trailingSpace, typeSugar, unusedArguments, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/AppContextManager+OptimizedAI.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/UIColor+Lottie.swift
+-- rules applied: indent, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Extensions/UIColor+Lottie.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/UIButton+longpress.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/View+NavTransition.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/AppDelegate+ConsentManagement.swift
+-- rules applied: blankLinesAroundMark, blankLinesAtStartOfScope, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Extensions/AppDelegate+ConsentManagement.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/UIApplication+returnToHomeScreen.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/UIImage+resize.swift
+-- rules applied: redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Extensions/UIImage+resize.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/UIView+Extension.swift
+-- rules applied: redundantReturn, redundantSelf, trailingSpace, wrapArguments
+Writing /Users/runner/work/Code-test/Code-test/iOS/Extensions/UIView+Extension.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/UIColor+hex.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/String+Crypto.swift
+-- rules applied: redundantSelf, sortImports, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Extensions/String+Crypto.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/UIView+UIHelpers.swift
+-- rules applied: blankLinesAroundMark, indent, preferKeyPath, redundantOptionalBinding, redundantReturn, redundantSelf, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Extensions/UIView+UIHelpers.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/UIUserInterfaceStyle+allCases.swift
+-- rules applied: indent
+Writing /Users/runner/work/Code-test/Code-test/iOS/Extensions/UIUserInterfaceStyle+allCases.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/UIControl+Apply.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/UIApplication+TopViewController.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/SettingsViewController+Terminal.swift
+-- rules applied: blankLinesAroundMark, blankLinesAtStartOfScope, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Extensions/SettingsViewController+Terminal.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/Nuke+Extensions.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/CertificateManager+EnhancedLogging.swift
+-- rules applied: andOperator, blankLinesAtStartOfScope, redundantOptionalBinding, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Extensions/CertificateManager+EnhancedLogging.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/UINavigationController+shouldPresentFullscreen.swift
+-- rules applied: redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Extensions/UINavigationController+shouldPresentFullscreen.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/BasicLayoutAnchorsHolding.swift
+-- rules applied: opaqueGenericParameters, redundantOptionalBinding, redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/iOS/Extensions/BasicLayoutAnchorsHolding.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/AILearningManager+DatasetManagement.swift
+-- rules applied: blankLinesAtStartOfScope, conditionalAssignment, elseOnSameLine, preferKeyPath, redundantType, sortImports, spaceAroundOperators, trailingSpace, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Extensions/AILearningManager+DatasetManagement.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/CGSize+aspectFit.swift
+-- rules applied: redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Extensions/CGSize+aspectFit.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/UIView+parentcontroller.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Utilities/SafeModeLauncher.swift
+-- rules applied: redundantOptionalBinding, redundantReturn, redundantSelf, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Utilities/SafeModeLauncher.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Common/FRSTableViewController.swift
+-- rules applied: redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Common/FRSTableViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Common/OpenAIResponse.swift
+-- rules applied: redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/iOS/Common/OpenAIResponse.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Common/FRSITableViewController.swift
+-- rules applied: sortImports
+Writing /Users/runner/work/Code-test/Code-test/iOS/Common/FRSITableViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Common/AppContext.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Delegates/AppDelegate+NetworkMonitoring.swift
+-- rules applied: blankLinesAroundMark, redundantOptionalBinding, redundantReturn, redundantSelf, sortImports, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Delegates/AppDelegate+NetworkMonitoring.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Delegates/AppDelegate+PhasedTerminal.swift
+-- rules applied: trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Delegates/AppDelegate+PhasedTerminal.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Delegates/AppDelegate+SafeMode.swift
+-- rules applied: blankLinesAroundMark, redundantOptionalBinding, redundantSelf, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Delegates/AppDelegate+SafeMode.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Delegates/AppDelegate+AILearning.swift
+-- rules applied: trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Delegates/AppDelegate+AILearning.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Delegates/AppDelegate+PhasedInitialization.swift
+-- rules applied: andOperator, blankLinesAroundMark, redundantOptionalBinding, redundantSelf, spaceAroundOperators, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Delegates/AppDelegate+PhasedInitialization.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Delegates/AppDelegate.swift
+-- rules applied: andOperator, indent, redundantOptionalBinding, redundantReturn, redundantSelf, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Delegates/AppDelegate.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Delegates/main.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/ConsentViewController.swift
+-- rules applied: blankLinesAtStartOfScope, redundantReturn, redundantSelf, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/ConsentViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/TabbarView.swift
+-- rules applied: andOperator, indent, opaqueGenericParameters, redundantReturn, redundantSelf, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/TabbarView.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Magic/decompression/AR.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Magic/decompression/Decompression.swift
+-- rules applied: indent, redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/Shared/Magic/decompression/Decompression.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Magic/esign/ESignRepoKey.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Magic/esign/ESignRepoParser.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Server/Model/ServerPack.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Data/UserDefaults/Storage.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Data/UserDefaults/Preferences.swift
+-- rules applied: redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/Shared/Data/UserDefaults/Preferences.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/CoreDataManager.swift
+-- rules applied: indent, opaqueGenericParameters, redundantOptionalBinding, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/CoreDataManager.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/CoreDataManager+SignedApps.swift
+-- rules applied: conditionalAssignment, indent, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/CoreDataManager+SignedApps.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/ChatMessage.swift
+-- rules applied: redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/ChatMessage.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/ChatSession.swift
+-- rules applied: redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/ChatSession.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/CoreDataManager+DownloadedApps.swift
+-- rules applied: redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/CoreDataManager+DownloadedApps.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/CoreData+AIChat.swift
+-- rules applied: redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/CoreData+AIChat.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/CoreDataManager+Sources.swift
+-- rules applied: indent, redundantOptionalBinding, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/CoreDataManager+Sources.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/CoreDataManager+Certificates.swift
+-- rules applied: redundantOptionalBinding, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/CoreDataManager+Certificates.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/CoreML/CoreMLManager.swift
+-- rules applied: andOperator, hoistPatternLet, indent, redundantOptionalBinding, redundantReturn, redundantSelf, redundantType, sortImports, spaceAroundOperators, trailingCommas, trailingSpace, wrapArguments
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/CoreML/CoreMLManager.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/CoreML/ModelFileManager.swift
+-- rules applied: redundantOptionalBinding, redundantReturn, redundantSelf, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/CoreML/ModelFileManager.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/CoreML/AIModelIntegration.swift
+-- rules applied: andOperator, blankLinesAtStartOfScope, hoistPatternLet, preferKeyPath, redundantReturn, sortImports, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/CoreML/AIModelIntegration.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/Helpers/CryptoHelper.swift
+-- rules applied: elseOnSameLine, numberFormatting, preferForLoop, sortImports, trailingCommas, trailingSpace, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/Helpers/CryptoHelper.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Operations/Helpers/UIHelpers.swift
+-- rules applied: blankLinesAroundMark, hoistPatternLet, indent, preferKeyPath, redundantOptionalBinding, redundantReturn, redundantSelf, trailingCommas, trailingSpace, unusedArguments, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Operations/Helpers/UIHelpers.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Extensions/Compatibility/BitwiseCopyableShim.swift
+-- rules applied: emptyBraces, indent
+Writing /Users/runner/work/Code-test/Code-test/iOS/Extensions/Compatibility/BitwiseCopyableShim.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/ModifyAppDelegate.swift
+-- rules applied: indent, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/ModifyAppDelegate.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/DataCollectionSettingsViewController.swift
+-- rules applied: blankLinesAtStartOfScope, redundantReturn, trailingCommas, trailingSpace, unusedArguments, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/DataCollectionSettingsViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/DonationTableViewCell.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/SettingsViewController.swift
+-- rules applied: andOperator, indent, redundantSelf, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/SettingsViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Terminal/FloatingTerminalButton.swift
+-- rules applied: andOperator, redundantOptionalBinding, redundantSelf, spaceAroundOperators, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Terminal/FloatingTerminalButton.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Terminal/CommandHistory.swift
+-- rules applied: redundantReturn, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Terminal/CommandHistory.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Terminal/CommandInputView.swift
+-- rules applied: redundantReturn, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Terminal/CommandInputView.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Terminal/TerminalViewController.swift
+-- rules applied: blankLinesAroundMark, conditionalAssignment, hoistPatternLet, indent, redundantOptionalBinding, trailingCommas, trailingSpace, unusedArguments
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Terminal/TerminalViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Terminal/TerminalTextView.swift
+-- rules applied: redundantReturn, trailingCommas, trailingSpace, unusedArguments
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Terminal/TerminalTextView.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Terminal/TerminalService.swift
+-- rules applied: hoistPatternLet, redundantOptionalBinding, redundantPattern, redundantSelf, trailingSpace, unusedArguments
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Terminal/TerminalService.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Extra/StartupPopupViewController.swift
+-- rules applied: redundantOptionalBinding, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Extra/StartupPopupViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Extra/TransferPreview.swift
+-- rules applied: indent, redundantOptionalBinding, redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Extra/TransferPreview.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Extra/PopupViewController.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourcesViewController.swift
+-- rules applied: indent, preferKeyPath, redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourcesViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/RepoViewController.swift
+-- rules applied: blankLinesAtStartOfScope, elseOnSameLine, redundantOptionalBinding, redundantReturn, redundantSelf, trailingSpace, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/RepoViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SearchResultsTableViewController.swift
+-- rules applied: indent, redundantOptionalBinding, redundantReturn, trailingCommas, trailingSpace, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SearchResultsTableViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/AI Assistant/ChatViewController.swift
+-- rules applied: andOperator, conditionalAssignment, indent, redundantOptionalBinding, redundantReturn, redundantSelf, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/AI Assistant/ChatViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/AI Assistant/AIMessageCell.swift
+-- rules applied: trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/AI Assistant/AIMessageCell.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/AI Assistant/FloatingAIButton.swift
+-- rules applied: elseOnSameLine, indent, redundantOptionalBinding, redundantReturn, redundantSelf, trailingCommas, trailingSpace, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/AI Assistant/FloatingAIButton.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/AI Assistant/ChatViewController+AILearning.swift
+-- rules applied: blankLinesAroundMark, redundantReturn, redundantSelf, spaceAroundOperators, trailingCommas, trailingSpace, unusedArguments
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/AI Assistant/ChatViewController+AILearning.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/AI Assistant/ChatHistoryViewController.swift
+-- rules applied: redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/AI Assistant/ChatHistoryViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/AI Assistant/SystemMessageCell.swift
+-- rules applied: trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/AI Assistant/SystemMessageCell.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/AI Assistant/UserMessageCell.swift
+-- rules applied: trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/AI Assistant/UserMessageCell.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/AI Assistant/AIFeedbackView.swift
+-- rules applied: blankLinesAtStartOfScope, spaceAroundOperators, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/AI Assistant/AIFeedbackView.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Apps/LibraryViewController+Import.swift
+-- rules applied: redundantOptionalBinding, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Apps/LibraryViewController+Import.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Apps/LibraryViewController.swift
+-- rules applied: indent, redundantOptionalBinding, redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Apps/LibraryViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Apps/AppsTableViewCell.swift
+-- rules applied: indent
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Apps/AppsTableViewCell.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Hub/WebViewController.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/Models/FileProcessingError.swift
+-- rules applied: indent, redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/Models/FileProcessingError.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/Models/CertificateModel.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/Models/SourcesModel.swift
+-- rules applied: redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/Models/SourcesModel.swift
+Formatting /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/Download/Sources.swift
+-- rules applied: redundantOptionalBinding, redundantReturn, redundantSelf, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/Shared/Data/CoreData/Download/Sources.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Reset/ResetDuplicates.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Reset/ResetAlertOptions.swift
+-- rules applied: redundantFileprivate, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Reset/ResetAlertOptions.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Reset/ResetDataClass.swift
+-- rules applied: redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Reset/ResetDataClass.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Server Options/ServerOptionsViewController.swift
+-- rules applied: indent, redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Server Options/ServerOptionsViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Terminal/LaunchTerminalViewController.swift
+-- rules applied: blankLinesAtStartOfScope, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Terminal/LaunchTerminalViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Terminal/TerminalSettingsViewController.swift
+-- rules applied: blankLinesAroundMark, blankLinesAtStartOfScope, hoistPatternLet, redundantOptionalBinding, redundantReturn, redundantSelf, trailingSpace, unusedArguments
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Terminal/TerminalSettingsViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/About/SettingsCreditsTableCell.swift
+-- rules applied: redundantOptionalBinding
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/About/SettingsCreditsTableCell.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/About/SettingsHeaderTableViewCell.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/About/LicenseViewController.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/About/AboutViewController.swift
+-- rules applied: indent, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/About/AboutViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Certificates/CertificateViewTableViewCell.swift
+-- rules applied: redundantOptionalBinding
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Certificates/CertificateViewTableViewCell.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Certificates/CertificatesViewController.swift
+-- rules applied: indent, redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Certificates/CertificatesViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Certificates/CertImportingViewController.swift
+-- rules applied: andOperator, conditionalAssignment, indent, redundantOptionalBinding, redundantParens, redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Certificates/CertImportingViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Search/SearchSettingsViewController.swift
+-- rules applied: blankLinesAtStartOfScope, redundantOptionalBinding, redundantReturn, redundantSelf, trailingSpace, unusedArguments, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Search/SearchSettingsViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Components/SwitchTableViewCell.swift
+-- rules applied: blankLinesAtStartOfScope, initCoderUnavailable, trailingSpace, unusedArguments
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Components/SwitchTableViewCell.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/AppIcon/IconsListTableViewCell.swift
+-- rules applied: redundantOptionalBinding
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/AppIcon/IconsListTableViewCell.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/AppIcon/IconsListViewController.swift
+-- rules applied: redundantOptionalBinding, redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/AppIcon/IconsListViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/View Logs/LogsViewController.swift
+-- rules applied: indent, redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/View Logs/LogsViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/AI Learning/ModelServerIntegrationViewController+SafeAsync.swift
+-- rules applied: blankLinesAtStartOfScope, redundantOptionalBinding, redundantSelf, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/AI Learning/ModelServerIntegrationViewController+SafeAsync.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/AI Learning/AILearningSettingsViewController.swift
+-- rules applied: blankLinesAtStartOfScope, hoistPatternLet, redundantReturn, trailingSpace, unusedArguments
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/AI Learning/AILearningSettingsViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/AI Learning/ModelServerIntegrationViewController.swift
+-- rules applied: blankLinesAtStartOfScope, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/AI Learning/ModelServerIntegrationViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/AI Learning/ImprovedLearningViewController.swift
+-- rules applied: blankLinesAtStartOfScope, redundantReturn, trailingCommas, trailingSpace, unusedArguments
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/AI Learning/ImprovedLearningViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/AI Learning/ImprovedLearningSettingsCell.swift
+-- rules applied: blankLinesAtStartOfScope, trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/AI Learning/ImprovedLearningSettingsCell.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Display/DisplayViewController.swift
+-- rules applied: indent, preferKeyPath, redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Display/DisplayViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Display/DisplayCollectionTableViewCell.swift
+-- rules applied: redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Settings/Display/DisplayCollectionTableViewCell.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/UI/IconManager.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/UI/FileTableViewCell.swift
+-- rules applied: indent, redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Home/UI/FileTableViewCell.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/UI/HomeViewUI.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Core/DirectoryViewController+Initialization.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Core/DirectoryViewController.swift
+-- rules applied: redundantReturn, redundantSelf, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Core/DirectoryViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Core/HomeViewController.swift
+-- rules applied: andOperator, blankLinesAroundMark, indent, redundantInternal, redundantOptionalBinding, redundantReturn, redundantSelf, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Core/HomeViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Core/DirectoryViewControllerExtensions.swift
+-- rules applied: redundantOptionalBinding, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Core/DirectoryViewControllerExtensions.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Editors/IPAEditorViewController.swift
+-- rules applied: andOperator, indent, redundantOptionalBinding, redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Editors/IPAEditorViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Editors/TextEditorViewController.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Editors/HexEditorViewController.swift
+-- rules applied: redundantOptionalBinding, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Editors/HexEditorViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Editors/PlistEditorViewController.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Editors/BaseEditorViewController.swift
+-- rules applied: redundantOptionalBinding, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Editors/BaseEditorViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Operations/FileDragAndDrop.swift
+-- rules applied: redundantOptionalBinding, redundantReturn, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Operations/FileDragAndDrop.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Operations/HomeViewFileHandlers.swift
+-- rules applied: redundantOptionalBinding, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Operations/HomeViewFileHandlers.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Operations/FileContextMenu.swift
+-- rules applied: redundantOptionalBinding, redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Operations/FileContextMenu.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Operations/HomeViewTableHandlers.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Operations/FileOperations.swift
+-- rules applied: redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Operations/FileOperations.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Extensions/HomeViewExtras.swift
+-- rules applied: extensionAccessControl, indent, redundantOptionalBinding, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Extensions/HomeViewExtras.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Extensions/HomeViewControllerExtensions.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Utilities/HomeFilePreviewHelpers.swift
+-- rules applied: extensionAccessControl, linebreakAtEndOfFile
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Utilities/HomeFilePreviewHelpers.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Utilities/FilePreviewController.swift
+-- rules applied: blankLinesBetweenScopes, redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Utilities/FilePreviewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Utilities/FilePreviewManager.swift
+-- rules applied: redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Utilities/FilePreviewManager.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Utilities/HomeViewUtilities.swift
+-- rules applied: indent
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Home/Utilities/HomeViewUtilities.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningOptionsViewController/SigningsOptionViewController.swift
+-- rules applied: andOperator, indent, redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningOptionsViewController/SigningsOptionViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningData/SigningOptions.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningData/SigningDataWrapper.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/SigningsAdvancedViewController.swift
+-- rules applied: indent, preferKeyPath, redundantSelf, sortImports
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/SigningsAdvancedViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/SigningsInputViewController.swift
+-- rules applied: indent, redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/SigningsInputViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/SigningsViewController+Import-AppIcon.swift
+-- rules applied: redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/SigningsViewController+Import-AppIcon.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/SigningsDylibViewController.swift
+-- rules applied: redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/SigningsDylibViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/SigningsTweakViewController.swift
+-- rules applied: redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/SigningsTweakViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/SigningsViewController.swift
+-- rules applied: andOperator, conditionalAssignment, elseOnSameLine, hoistPatternLet, indent, redundantOptionalBinding, redundantReturn, redundantSelf, trailingSpace, unusedArguments, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/SigningsViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/SettingsAltIconView.swift
+-- rules applied: redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/SettingsAltIconView.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourceAppViews/SourceAppActions.swift
+-- rules applied: redundantOptionalBinding, redundantSelf, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourceAppViews/SourceAppActions.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourceAppViews/SourceAppTableViewCell.swift
+-- rules applied: elseOnSameLine, indent, redundantFileprivate, redundantOptionalBinding, redundantReturn, redundantSelf, trailingCommas, trailingSpace, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourceAppViews/SourceAppTableViewCell.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourceAppViews/SourceAppDownload.swift
+-- rules applied: elseOnSameLine, hoistPatternLet, redundantOptionalBinding, redundantSelf, trailingCommas, trailingSpace, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourceAppViews/SourceAppDownload.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourceAppViews/SourceAppViewController.swift
+-- rules applied: andOperator, elseOnSameLine, indent, redundantOptionalBinding, redundantReturn, redundantSelf, trailingCommas, trailingSpace, wrapMultilineStatementBraces
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourceAppViews/SourceAppViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Apps/Information/AppsInformationViewController.swift
+-- rules applied: indent, redundantReturn, redundantSelf
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Apps/Information/AppsInformationViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningOptionsViewController/Identifier/AddIdentifierViewController.swift
+-- rules applied: indent, redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningOptionsViewController/Identifier/AddIdentifierViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningOptionsViewController/Identifier/IdentifiersViewController.swift
+-- rules applied: indent, redundantReturn
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningOptionsViewController/Identifier/IdentifiersViewController.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/Components/SwitchViewCell.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/Components/IconImageViewCell.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/Components/TweakLibraryViewCell.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Signing/SigningViewController/Components/ActivityIndicatorViewCell.swift
+-- no changes
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourceAppViews/News/CardContextMenuView.swift
+-- rules applied: trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourceAppViews/News/CardContextMenuView.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourceAppViews/News/NewsCardContainerView.swift
+-- rules applied: trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourceAppViews/News/NewsCardContainerView.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourceAppViews/News/NewsCardView.swift
+-- rules applied: trailingCommas, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourceAppViews/News/NewsCardView.swift
+Formatting /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourceAppViews/News/NewsCardsScrollView.swift
+-- rules applied: redundantReturn, trailingSpace
+Writing /Users/runner/work/Code-test/Code-test/iOS/Views/Sources/SourceAppViews/News/NewsCardsScrollView.swift
+error: Unknown option --blanklines. Did you mean --typeblanklines? in configuration file.
